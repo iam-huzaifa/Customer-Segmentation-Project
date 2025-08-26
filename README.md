@@ -1,14 +1,14 @@
-Customer Segmentation using K-Means
-📌 Overview
+**Customer Segmentation using K-Means**
+**📌 Overview**
 
 This project focuses on customer segmentation using the Mall Customers dataset. The goal is to group customers into meaningful clusters based on their Annual Income and Spending Score, which helps businesses understand different customer groups and design targeted marketing strategies.
 
 We use the K-Means clustering algorithm, one of the most popular unsupervised learning techniques, to identify patterns and visualize customer segments.
 
-📂 Dataset
+📂** Dataset**
 
 The dataset can be downloaded from Kaggle:
-👉 Mall Customers Dataset
+**👉 Mall Customers Dataset
 
 Features in the dataset:
 
